@@ -11,8 +11,11 @@ Adept at leveraging AWS services to drive innovation and optimize cloud performa
 ### September 2024 – Present
 ### Perficient
 
-Developed automated deployment service called the pulumi runner that deployes infrastructure as code written in pulumi for different services for ETL and other related services for the platform.
-the main job was develop features and maintain the service functional for other projects to automatically deploy the needed infrastruture.
+Developed automated deployment service to deploy infrastructure as code in pulumi python the service integrates with kafka and deployes to aws.
+Create pulumi stacks to deploy diverse infrastructure including lambda functions, kubernetes pods and etl jobs.
+Developed Scripts to generate synthetic data for testing ETL services.
+Scripts to delete data in healthlake.
+Created custome crawler for aws glue that creates the data catalog and partitions for a data lake in s3.
 
 Skills: Azure AD, AWS, Kafka, GitLab, Docker, Kubernetes, Pulumi, Terraform, Python
 
